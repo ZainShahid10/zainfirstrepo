@@ -4,4 +4,4 @@ This is a new line I have added.
 I have started grasping idea of git.
 
 Hello GitHub
-I am changig this line
+I am changing this line
